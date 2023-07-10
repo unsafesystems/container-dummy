@@ -21,4 +21,4 @@ EXPOSE 8080
 
 WORKDIR /home
 
-ENTRYPOINT ["/out/proxy"]
+ENTRYPOINT ["/out/dummy"]
